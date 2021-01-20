@@ -23,3 +23,13 @@ Bayern munich
 Borussia dortmund
 Bayern leverkusen
 Leipzing
+
+------ Equipos de europa league ------
+
+****** La liga ******
+Real sociedad
+Valencia
+
+****** Premier league ******
+Aston villa
+Leeds united
