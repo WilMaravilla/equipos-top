@@ -1,7 +1,13 @@
 Equipos top de las mejores ligas europeas
 
-La liga
+****** La liga ******
 Barca
 Real madrid
 Atletico de madrid
 Sevilla
+
+****** Premier league ******
+Manchester city
+Liverpool
+Leister city
+Everton
