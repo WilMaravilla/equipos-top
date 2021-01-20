@@ -11,3 +11,9 @@ Manchester city
 Liverpool
 Leister city
 Everton
+
+****** Serie A ******
+Juventus
+Inter
+Atalanta
+Milan
